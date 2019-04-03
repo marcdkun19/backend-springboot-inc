@@ -25,4 +25,5 @@ yarn-error.log*
 .classpath
 .project
 target/**
-.settings
+.settings/**
+
