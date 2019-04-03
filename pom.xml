@@ -21,10 +21,10 @@
 		</dependency>
 		
 		<!-- DB related starter dependency (by default, ORM is hibernate) -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
+		</dependency> -->
 		
 		<!-- JUnit starter dependecy -->
 		<dependency>
@@ -57,10 +57,10 @@
 		</dependency>
 		
 		<!-- Spring security starter dependency -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
+		</dependency> -->
 	</dependencies>
 	
 	<properties>
